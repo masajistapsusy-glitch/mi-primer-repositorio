@@ -1,3 +1,16 @@
-# Clase 1 – Introducción a la Psicología
+# Clase 1 – ¿Qué es la Psicología?
 
-Contenidos iniciales.
+## Definición
+La psicología es la ciencia que estudia el comportamiento
+y los procesos mentales.
+
+## Objeto de estudio
+- Conducta
+- Procesos mentales
+- Contexto social y cultural
+
+## Finalidad
+- Comprender
+- Explicar
+- Predecir
+- Intervenir
